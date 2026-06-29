@@ -26,3 +26,5 @@
 
 ## API Testing
 Import Postman collection
+## Swagger Endpoint
+http://localhost:8080/swagger-ui/index.html
