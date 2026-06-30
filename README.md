@@ -28,3 +28,4 @@
 Import Postman collection
 ## Swagger Endpoint
 http://localhost:8080/swagger-ui/index.html
+## Written the Junit TestCases for student-service,course-service,enrollment-service (in the test folder)
